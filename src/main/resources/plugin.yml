@@ -1,0 +1,5 @@
+name: CoreBedWars
+version: 1.0
+author: EdmineCoreTeam
+main: fr.edminecoreteam.bedwars.Core
+commands:
